@@ -1,4 +1,4 @@
-# Appmode in Binder
+# Creating webapps with Binder
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/appmode/master?urlpath=apps%2Findex.ipynb)
 
