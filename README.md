@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/appmode/master?urlpath=apps%2Findex.ipynb)
 
-This repository demonstrates how to create interactivewebapps from a Jupyter Notebook.
+This repository demonstrates how to create interactive webapps from a Jupyter Notebook.
 This is similar to how Shiny apps work in R.
 
 Using the `appmode` Jupyter plugin, a notebook's code will be run, and then only the markdown cells and
